@@ -28,8 +28,7 @@ If we calculate the first order derivative over the image, we could even observe
 </p>
 
 **Taylor series appriximation** <br>
-By the use of taylor series approximation we could find that determining whether corner feature exist becomes easier to implement by just analyzing a 2 dimensional matrix
-Since we know the pixel intensity change instantly at the point of feature, it's 
+From the taylor series approximation we could find that the matrix containing first order derivative is indeed determining how instant changes it is around each point:
 
 <p align="center">
    <br>
