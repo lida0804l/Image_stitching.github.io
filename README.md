@@ -46,7 +46,7 @@ The use of eigenvalues is better than derivatives in the sense that eigenvalue w
 </p>
 
 **Corner feature detected** <br>
-Here's a example of the corner feature detected:
+Here's a example of the corner feature detected withiin the image:
 
 <p align="center">
    <br>
