@@ -57,8 +57,8 @@ Here's a example of the corner feature detected withiin the image:
 # Gradient descriptor
 Once the feature has been detected we'll need to describe it, to have the property of orientation invariant SIFT descriptor is using.
 
-# Main orientation
-To achieve orientation invariant the first step is to 
+**Main orientation** <br>
+To achieve orientation invariant the first step is to calculate the histogram of gradient, and find the main orientation of gradient for each point:
 
 <p align="center">
    <br>
@@ -66,7 +66,8 @@ To achieve orientation invariant the first step is to
    <br>
 </p>
 
-# 7_Histogram_of_gradient
+**7_Histogram_of_gradient** <br>
+And again calculate the histogram of gradient, this time the orientation is based on the main orientaion:
 
 <p align="center">
    <br>
@@ -74,7 +75,8 @@ To achieve orientation invariant the first step is to
    <br>
 </p>
 
-# 8_Flatten_form
+**8_Flatten_form** <br>
+Once we've finished calculated histogram statistics, the next step is to flatten into a vector show in the following graph:
 
 <p align="center">
    <br>
@@ -82,7 +84,8 @@ To achieve orientation invariant the first step is to
    <br>
 </p>
 
-# 11_Histogram_of_slope_and_length
+# Inlier detection
+**11_Histogram_of_slope_and_length**
 
 <p align="center">
    <br>
