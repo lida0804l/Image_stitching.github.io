@@ -87,7 +87,7 @@ Once we've finished the calculation of histogram statistics, the next step is to
 # Feature matching
 Here nearest neighbor is used to find the match point for each feature, and some filtering process is needed to provide more accurate result.
 
-**Histogram of slope and length**
+**Histogram of slope and length** <br>
 In this stage we'll get some potential matching point, the next step is to calculate the histogram for both the slope and length of matching point:
 
 <p align="center">
@@ -96,7 +96,7 @@ In this stage we'll get some potential matching point, the next step is to calcu
    <br>
 </p>
 
-**Inlier detection**
+**Inlier detection** <br>
 And by analyzing the data, retaining about 95% of the matching pair is enough for the situation, we can the remaining match pairs are parellel and of similar length that match with expectation:
 
 <p align="center">
@@ -108,7 +108,7 @@ And by analyzing the data, retaining about 95% of the matching pair is enough fo
 # Cylindrical mapping
 Now we're preparing to stitch images, to have the stitching smoothly we're going project each image into cylindrical coordinate according to focal length:
 
-**Coordinate relationship**
+**Coordinate relationship** <br>
 Here's the graph showing the relationship between spatial and cylindrical coordinate, once figuring out the relationship it is straight forward to apply the mapping:
 
 <p align="center">
@@ -117,6 +117,7 @@ Here's the graph showing the relationship between spatial and cylindrical coordi
    <br>
 </p>
 
+**Coordinate relationship** <br>
 # 10_Cylindrical_mapping_with_real_scene
 
 <p align="center">
