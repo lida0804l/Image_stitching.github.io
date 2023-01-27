@@ -62,22 +62,6 @@
    <br>
 </p>
 
-# 9_Cylindrical_mapping
-
-<p align="center">
-   <br>
-   <img src="Images/9_Cylindrical_mapping.jpg" width="70%" height="70%">
-   <br>
-</p>
-
-# 10_Cylindrical_mapping_with_real_scene
-
-<p align="center">
-   <br>
-   <img src="Images/10_Cylindrical_mapping_with_real_scene.jpg" width="70%" height="70%">
-   <br>
-</p>
-
 # 11_Histogram_of_slope_and_length
 
 <p align="center">
@@ -91,6 +75,22 @@
 <p align="center">
    <br>
    <img src="Images/12_Inlier.jpg" width="70%" height="70%">
+   <br>
+</p>
+
+# 9_Cylindrical_mapping
+
+<p align="center">
+   <br>
+   <img src="Images/9_Cylindrical_mapping.jpg" width="70%" height="70%">
+   <br>
+</p>
+
+# 10_Cylindrical_mapping_with_real_scene
+
+<p align="center">
+   <br>
+   <img src="Images/10_Cylindrical_mapping_with_real_scene.jpg" width="70%" height="70%">
    <br>
 </p>
 
