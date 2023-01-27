@@ -55,7 +55,9 @@ Here's a example of the corner feature detected withiin the image:
 </p>
 
 # Gradient descriptor
-6_Gradient_8_orientation
+Once the feature has been detected we'll need to describe it, to have the property of orientation invariant SIFT descriptor is using.
+
+# Main orientation
 
 <p align="center">
    <br>
