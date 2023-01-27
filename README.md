@@ -6,7 +6,10 @@
    <br>
 </p>
 
-# 2_Corner_feature
+# Feature detection
+To have the images stitching together we need to find the corresponding point for each pair of images, although SIFT is a good choice capable to detect feature that is scale invariant, but here since the images are of similar scale and also because Harris method is faster to implement is the main reason we use Harris method.
+
+**Harris corner detection** <br>
 
 <p align="center">
    <br>
