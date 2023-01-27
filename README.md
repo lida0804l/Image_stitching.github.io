@@ -45,7 +45,8 @@ The use of eigenvalues is better than derivatives in the sense that eigenvalue w
    <br>
 </p>
 
-# 5_Corner_feature_detected
+**Corner feature detected** <br>
+Here's a example of the corner feature detected:
 
 <p align="center">
    <br>
@@ -53,7 +54,8 @@ The use of eigenvalues is better than derivatives in the sense that eigenvalue w
    <br>
 </p>
 
-# 6_Gradient_8_orientation
+# Gradient descriptor
+6_Gradient_8_orientation
 
 <p align="center">
    <br>
