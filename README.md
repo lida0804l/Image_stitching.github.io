@@ -97,7 +97,7 @@ In this stage we'll get some potential matching point, the next step is to calcu
 </p>
 
 **Inlier detection**
-
+And by analyzing the data, retaining about 95% of the matching pair is enough for the situation, we can the remaining match pairs are parellel and of similar length that match with expectation:
 
 <p align="center">
    <br>
@@ -105,7 +105,7 @@ In this stage we'll get some potential matching point, the next step is to calcu
    <br>
 </p>
 
-# 9_Cylindrical_mapping
+# Cylindrical mapping
 
 <p align="center">
    <br>
