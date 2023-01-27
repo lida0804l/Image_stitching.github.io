@@ -117,8 +117,8 @@ Here's the graph showing the relationship between spatial and cylindrical coordi
    <br>
 </p>
 
-**Coordinate relationship** <br>
-# 10_Cylindrical_mapping_with_real_scene
+**Coordinate relationship using real scene** <br>
+Here's the graph showing before and after the graph being projected:
 
 <p align="center">
    <br>
@@ -127,6 +127,7 @@ Here's the graph showing the relationship between spatial and cylindrical coordi
 </p>
 
 # 13_Linear_blending
+
 
 <p align="center">
    <br>
