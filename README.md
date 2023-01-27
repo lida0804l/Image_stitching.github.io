@@ -84,8 +84,11 @@ Once we've finished the calculation of histogram statistics, the next step is to
    <br>
 </p>
 
-# Inlier detection
-**11_Histogram_of_slope_and_length**
+# Feature matching
+Here nearest neighbor is used to find the match point for each feature, and some filtering process is needed to provide more accurate result.
+
+**Histogram of slope and length**
+In this stage we'll get some potential matching point, the next step is to calculate the histogram for both the slope and length of matching point:
 
 <p align="center">
    <br>
@@ -93,7 +96,8 @@ Once we've finished the calculation of histogram statistics, the next step is to
    <br>
 </p>
 
-# 12_Inlier
+**Inlier detection**
+
 
 <p align="center">
    <br>
