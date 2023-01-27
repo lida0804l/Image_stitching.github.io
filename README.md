@@ -58,10 +58,11 @@ Here's a example of the corner feature detected withiin the image:
 Once the feature has been detected we'll need to describe it, to have the property of orientation invariant SIFT descriptor is using.
 
 # Main orientation
+To achieve orientation invariant the first step is to 
 
 <p align="center">
    <br>
-   <img src="Images/6_Gradient_8_orientation.jpg" width="70%" height="70%">
+   <img src="Images/6_Gradient_8_orientation.jpg" width="50%" height="50%">
    <br>
 </p>
 
