@@ -19,7 +19,7 @@ Here's the graph showing corner feature to be detected, in first glance we could
 </p>
 
 **Gradient plot** <br>
-If we calculate the first order derivative over the image, we could even observe the derivatives along smooth area, edges and corner are distributed in it's own way:
+If we calculate the first order derivative over the image, we could even observe the derivatives along plane, edges and corner are distributed in it's own way:
 
 <p align="center">
    <br>
