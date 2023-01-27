@@ -66,7 +66,7 @@ To achieve orientation invariant the first step is to calculate the histogram of
    <br>
 </p>
 
-**7_Histogram_of_gradient** <br>
+**Histogram of gradient** <br>
 And again calculate the histogram of gradient, this time the orientation is based on the main orientaion:
 
 <p align="center">
@@ -75,7 +75,7 @@ And again calculate the histogram of gradient, this time the orientation is base
    <br>
 </p>
 
-**8_Flatten_form** <br>
+**Flatten form** <br>
 Once we've finished calculated histogram statistics, the next step is to flatten into a vector show in the following graph:
 
 <p align="center">
