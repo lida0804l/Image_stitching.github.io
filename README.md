@@ -127,7 +127,7 @@ Here's the graph showing before and after the graph being projected:
 </p>
 
 # 13_Linear_blending
-
+After we know the overlapping region for each image, then we'll apply linear blending for each of them
 
 <p align="center">
    <br>
@@ -136,6 +136,7 @@ Here's the graph showing before and after the graph being projected:
 </p>
 
 # 14_Final_result
+Here' the graph showing the result and we get a panorama photo
 
 <p align="center">
    <br>
