@@ -18,7 +18,18 @@ Here's the graph showing corner feature to be detected, in first glance we could
    <br>
 </p>
 
-# 3_Taylor_series_approximation
+**Gradient plot** <br>
+If we calculate the first order derivative over the image, we could even observe the derivatives along smooth area, edges and corner are distributed in it's own way:
+
+<p align="center">
+   <br>
+   <img src="Images/2_Corner_feature_gradient_plot.jpg" width="70%" height="70%">
+   <br>
+</p>
+
+**Taylor series appriximation** <br>
+By the use of taylor series approximation we could find that determining whether corner feature exist becomes easier to implement by just analyzing a 2 dimensional matrix
+Since we know the pixel intensity change instantly at the point of feature, it's 
 
 <p align="center">
    <br>
