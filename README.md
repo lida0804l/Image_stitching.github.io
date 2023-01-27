@@ -76,7 +76,7 @@ And again calculate the histogram of gradient, this time the orientation is base
 </p>
 
 **Flatten form** <br>
-Once we've finished calculated histogram statistics, the next step is to flatten into a vector show in the following graph:
+Once we've finished the calculation of histogram statistics, the next step is to flatten into a vector show in the following graph:
 
 <p align="center">
    <br>
