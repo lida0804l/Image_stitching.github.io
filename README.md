@@ -36,9 +36,8 @@ From the taylor series approximation we could find that the matrix containing fi
    <br>
 </p>
 
-# 4_Eigenvalues_determines_instant_changes
-**Interpret matrix by analyzing eigenvalues** <br>
-
+**Eigenvalues determine instant changes** <br>
+The use of eigenvalues is better than derivatives in the sense that eigenvalue would determines the amount of changes and automatically aligns with the direction of greatest changes, so by analyzing the eigenvalue we could determine whether the current point is a plane, edge or corner:
 
 <p align="center">
    <br>
