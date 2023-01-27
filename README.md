@@ -106,6 +106,10 @@ And by analyzing the data, retaining about 95% of the matching pair is enough fo
 </p>
 
 # Cylindrical mapping
+Now we're preparing to stitch images, to have the stitching smoothly we're going project each image into cylindrical coordinate according to focal length:
+
+**Coordinate relationship**
+Here's the graph showing the relationship between spatial and cylindrical coordinate, once figuring out the relationship it is straight forward to apply the mapping:
 
 <p align="center">
    <br>
